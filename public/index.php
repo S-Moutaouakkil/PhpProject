@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Database;
 use App\Models\Post;
 use App\PostController;
 
